@@ -10,3 +10,5 @@ import Foundation
 print("Update in leader 1")
 
 print("Update in local B")
+
+print("Update in leader 2")
